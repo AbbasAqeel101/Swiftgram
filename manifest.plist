@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/AbbasAqeel101/Swiftgram/releases/download/V1.0/Swiftgram_12.2.ipa</string>
+                    <string>https://github.com/AbbasAqeel101/Swiftgram/releases/download/V1.0/Swiftgram_12.7_LD.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>app.swiftgram.ios</string>
                 <key>bundle-version</key>
-                <string>12.2</string>
+                <string>12.7</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
